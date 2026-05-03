@@ -13,5 +13,5 @@ A robust Python-based web scraper that monitors Amazon product prices and alerts
 
 1. **Clone the repository**:
    ```bash
-   git clone [https://github.com/your-username/amazon-price-tracker.git](https://github.com/your-username/amazon-price-tracker.git)
+   git clone [https://github.com/pgilmo/amazon-price-tracker.git](https://github.com/pgilmo/amazon-price-tracker.git)
    cd amazon-price-tracker
